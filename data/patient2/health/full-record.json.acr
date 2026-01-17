@@ -1,0 +1,18 @@
+@prefix acp: <http://www.w3.org/ns/solid/acp#>.
+@prefix acl: <http://www.w3.org/ns/auth/acl#>.
+
+<#root>
+  a acp:AccessControlResource;
+  acp:resource <http://localhost:3000/patient2/health/full-record.json>;
+  acp:accessControl <#ownerAccess> .
+
+<#ownerAccess>
+  a acp:AccessControl;
+  acp:apply [
+    a acp:Policy;
+    acp:allow acl:Read, acl:Write, acl:Append, acl:Control;
+    acp:anyOf [
+      a acp:Matcher;
+      acp:agent <http://localhost:3000/patient2/profile/card#me>;
+    ];
+  ] .

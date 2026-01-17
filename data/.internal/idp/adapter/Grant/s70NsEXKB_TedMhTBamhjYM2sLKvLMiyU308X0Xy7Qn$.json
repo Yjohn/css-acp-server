@@ -1,0 +1,1 @@
+{"key":"idp/adapter/Grant/s70NsEXKB_TedMhTBamhjYM2sLKvLMiyU308X0Xy7Qn","payload":{"expires":"2026-01-16T19:42:27.808Z","payload":{"iat":1767382947,"exp":1768592547,"accountId":"http://localhost:3000/doctor/profile/card#me","clientId":"X27AUgFhOA8SByfTKo9Y3","kind":"Grant","jti":"s70NsEXKB_TedMhTBamhjYM2sLKvLMiyU308X0Xy7Qn","openid":{"scope":"openid offline_access webid"}}}}

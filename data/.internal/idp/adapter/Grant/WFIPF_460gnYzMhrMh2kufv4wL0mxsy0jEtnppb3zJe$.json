@@ -1,0 +1,1 @@
+{"key":"idp/adapter/Grant/WFIPF_460gnYzMhrMh2kufv4wL0mxsy0jEtnppb3zJe","payload":{"expires":"2026-01-22T08:01:41.894Z","payload":{"iat":1767859301,"exp":1769068901,"accountId":"http://localhost:3000/doctor/profile/card#me","clientId":"DN0oOQlHCAtvzC8kKFX5p","kind":"Grant","jti":"WFIPF_460gnYzMhrMh2kufv4wL0mxsy0jEtnppb3zJe","openid":{"scope":"openid offline_access webid"}}}}

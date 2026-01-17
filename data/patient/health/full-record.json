@@ -1,0 +1,11 @@
+{
+  "patientName": "John Smith",
+  "dateOfBirth": "1998-09-02",
+  "bloodType": "A-",
+  "address": "45 Maple Close, Edinburgh, EH8 3AB, UK",
+  "allergies": "Peanuts – causes swelling of lips and breathing difficulty\nIbuprofen – causes stomach pain\n",
+  "diagnoses": "Asthma (childhood onset)\nGeneralised anxiety (mild, under GP care)\n",
+  "medications": "Salbutamol inhaler (blue) – 2 puffs when wheezy, up to 4 times per day\nBudesonide inhaler (brown) – 1 puff twice daily as preventer\nSertraline 50 mg – once daily in the morning\n",
+  "notes": "Non-smoker, lives with flatmate, works in an office.\nAsthma usually well-controlled; flare-ups during cold weather or chest infections.\nCarries two salbutamol inhalers (one in bag, one at home).\nPeanut allergy is severe – carries an adrenaline auto-injector prescribed by allergy clinic.\nAnxiety improves with medication and regular exercise (yoga twice a week).\n",
+  "files": []
+}

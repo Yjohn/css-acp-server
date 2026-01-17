@@ -1,0 +1,11 @@
+{
+  "patientName": "David John",
+  "dateOfBirth": "1965-03-14",
+  "bloodType": "O+",
+  "address": "12 Oak Street, Glasgow, G12 8QQ, UK",
+  "allergies": "Penicillin – causes rash and facial swelling\nPollen – causes seasonal sneezing and itchy eyes\n",
+  "diagnoses": "Type 2 diabetes (diagnosed 2015)\nHigh blood pressure\nHigh cholesterol\n",
+  "medications": "Metformin 500 mg – twice daily with food\nAmlodipine 5 mg – once daily in the morning\nAtorvastatin 20 mg – once daily at night\n",
+  "notes": "Non-smoker, drinks alcohol occasionally.\nWalks 20–30 minutes on most days.\nBlood pressure is usually well-controlled on current treatment.\nNo history of heart attack or stroke.\nChecks blood sugar at home a few times per week and brings readings to GP appointments.\n",
+  "files": []
+}
